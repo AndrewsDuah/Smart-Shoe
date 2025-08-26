@@ -31,10 +31,3 @@ An innovative assistive technology project aimed at enhancing mobility and indep
 
 ## Contribution
 This project is open for contributions. Feel free to fork, submit pull requests, or open issues for suggestions and bug reports.
-
-## For Video 
-Visit:https://youtube.com/shorts/kzZC-HxLaak?si=v-ZF1YPKCYp4x9cj
-
-![WhatsApp Image 2024-08-09 at 23 37 31_5ceca5ae](https://github.com/user-attachments/assets/2f0bb6bb-1881-4b84-bc26-8e9c2b573955)
-![WhatsApp Image 2024-08-09 at 23 37 30_5c4c661e](https://github.com/user-attachments/assets/a1274267-3e89-4608-bbda-4147c39b5d8b)
-
